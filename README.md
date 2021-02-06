@@ -4,9 +4,9 @@ Paint App deals with Custom Views in Android to draw on white screen using Finge
 
 ## Screenshots
 
-<img src="https://github.com/sourajit1999/PaintView/blob/master/WhatsApp%20Image%202021-02-07%20at%201.19.05%20AM.jpeg"/>
-<img src="https://github.com/sourajit1999/PaintView/blob/master/WhatsApp%20Image%202021-02-07%20at%201.19.05%20AM%20(1).jpeg"/>
-<img src="https://github.com/sourajit1999/PaintView/blob/master/WhatsApp%20Image%202021-02-07%20at%201.19.05%20AM%20(2).jpeg"/>
+<img src="https://github.com/sourajit1999/PaintView/blob/master/WhatsApp%20Image%202021-02-07%20at%201.19.05%20AM.jpeg" height="600px"/>
+<img src="https://github.com/sourajit1999/PaintView/blob/master/WhatsApp%20Image%202021-02-07%20at%201.19.05%20AM%20(1).jpeg" height="600px"/>
+<img src="https://github.com/sourajit1999/PaintView/blob/master/WhatsApp%20Image%202021-02-07%20at%201.19.05%20AM%20(2).jpeg" height="600px"/>
 
 ## Features
 
