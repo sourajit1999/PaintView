@@ -2,6 +2,10 @@
 
 Paint App deals with Custom Views in Android to draw on white screen using Finger Movement Tracking. Also, implements special features like different Pen types.
 
+## Screenshots
+
+
+
 ## Features
 
 * Custom View
